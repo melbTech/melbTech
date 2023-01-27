@@ -5,7 +5,7 @@
 - 🫶 I love to stay up to date with emerging technologies such as AI.
 - 📫 How to reach me itsmelvinsantos@gmail.com
 
-Projects I've done
+#### Projects I've done
 - [Flashcards](https://github.com/melbTech/Flashcards)
 - [Java Calculator App](https://github.com/melbTech/Java-Calculator-App)
 - [BMI Calculator](https://github.com/melbTech/bmi-calculator)
