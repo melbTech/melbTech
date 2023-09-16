@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @melbTech - Melvin Santos. A Computer Science student
 - 👀 I’m interested in full stack development, UX design, and database management.
 - 🌱 I’m currently learning Web development, Java, database management and UX design
-- 💜 I’m seeking a freelancing and contracting role where I can utilize my skills, continue to learn and grow as a developer
 - 🫶 I love to stay up to date with emerging technologies such as AI.
 - 📫 How to reach me itsmelvinsantos@gmail.com
 
