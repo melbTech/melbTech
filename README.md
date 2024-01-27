@@ -5,6 +5,7 @@
 - 📫 How to reach me itsmelvinsantos@gmail.com
 
 #### Projects I've done
+- [Games Foundraiser Website](https://github.com/melbTech/mel-codepath-webdev-prework)
 - [Flashcards](https://github.com/melbTech/Flashcards)
 - [Java Calculator App](https://github.com/melbTech/Java-Calculator-App)
 - [BMI Calculator](https://github.com/melbTech/bmi-calculator)
